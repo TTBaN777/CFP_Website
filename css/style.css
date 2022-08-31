@@ -282,6 +282,9 @@ p {
 #fh5co-header #fh5co-logo {
   text-align: center;
 }
+#fh5co-header #fh5co-logo-1 {
+  text-align: left;
+}
 #fh5co-header #fh5co-logo a {
   color: #000;
 }
